@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400026590347",
+    "firebase_url": "https://monster-academy-d0420-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "monster-academy-d0420",
+    "storage_bucket": "monster-academy-d0420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400026590347:android:3e59b38bf89e4f6eeac88e",
+        "android_client_info": {
+          "package_name": "com.jamcity.monsterA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400026590347-7c4hctcl629afmt4gbhfh40c1fdlirqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkY0408PVEs9jAQVG5iRVON9yd0UuwNZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400026590347-7c4hctcl629afmt4gbhfh40c1fdlirqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400026590347-099jpbotn5m4hhril0li0rjfoht2385t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.UnityTestRunner.UnityTestRunner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
